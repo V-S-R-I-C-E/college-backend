@@ -1,0 +1,377 @@
+[
+  {
+    "id": 1,
+    "name": "ABC College",
+    "location": "City 2",
+    "description": "ABC College is a prestigious institution located in City 2, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "BCD College",
+    "location": "City 3",
+    "description": "BCD College is a prestigious institution located in City 3, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "CDE College",
+    "location": "City 4",
+    "description": "CDE College is a prestigious institution located in City 4, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "DEF College",
+    "location": "City 5",
+    "description": "DEF College is a prestigious institution located in City 5, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "EFG College",
+    "location": "City 6",
+    "description": "EFG College is a prestigious institution located in City 6, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "FGH College",
+    "location": "City 7",
+    "description": "FGH College is a prestigious institution located in City 7, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "GHI College",
+    "location": "City 8",
+    "description": "GHI College is a prestigious institution located in City 8, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "HIJ College",
+    "location": "City 9",
+    "description": "HIJ College is a prestigious institution located in City 9, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "IJK College",
+    "location": "City 10",
+    "description": "IJK College is a prestigious institution located in City 10, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "JKL College",
+    "location": "City 1",
+    "description": "JKL College is a prestigious institution located in City 1, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "KLM College",
+    "location": "City 2",
+    "description": "KLM College is a prestigious institution located in City 2, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "LMN College",
+    "location": "City 3",
+    "description": "LMN College is a prestigious institution located in City 3, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "MNO College",
+    "location": "City 4",
+    "description": "MNO College is a prestigious institution located in City 4, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "NOP College",
+    "location": "City 5",
+    "description": "NOP College is a prestigious institution located in City 5, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "OPQ College",
+    "location": "City 6",
+    "description": "OPQ College is a prestigious institution located in City 6, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "PQR College",
+    "location": "City 7",
+    "description": "PQR College is a prestigious institution located in City 7, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "QRS College",
+    "location": "City 8",
+    "description": "QRS College is a prestigious institution located in City 8, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "RST College",
+    "location": "City 9",
+    "description": "RST College is a prestigious institution located in City 9, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "STU College",
+    "location": "City 10",
+    "description": "STU College is a prestigious institution located in City 10, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "TUV College",
+    "location": "City 1",
+    "description": "TUV College is a prestigious institution located in City 1, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college20.jpg"
+  },
+  {
+    "id": 21,
+    "name": "UVW College",
+    "location": "City 2",
+    "description": "UVW College is a prestigious institution located in City 2, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college21.jpg"
+  },
+  {
+    "id": 22,
+    "name": "VWX College",
+    "location": "City 3",
+    "description": "VWX College is a prestigious institution located in City 3, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college22.jpg"
+  },
+  {
+    "id": 23,
+    "name": "WXY College",
+    "location": "City 4",
+    "description": "WXY College is a prestigious institution located in City 4, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college23.jpg"
+  },
+  {
+    "id": 24,
+    "name": "XYZ College",
+    "location": "City 5",
+    "description": "XYZ College is a prestigious institution located in City 5, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college24.jpg"
+  },
+  {
+    "id": 25,
+    "name": "YZA College",
+    "location": "City 6",
+    "description": "YZA College is a prestigious institution located in City 6, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college25.jpg"
+  },
+  {
+    "id": 26,
+    "name": "ZAB College",
+    "location": "City 7",
+    "description": "ZAB College is a prestigious institution located in City 7, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college26.jpg"
+  },
+  {
+    "id": 27,
+    "name": "ABC College",
+    "location": "City 8",
+    "description": "ABC College is a prestigious institution located in City 8, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college27.jpg"
+  },
+  {
+    "id": 28,
+    "name": "BCD College",
+    "location": "City 9",
+    "description": "BCD College is a prestigious institution located in City 9, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college28.jpg"
+  },
+  {
+    "id": 29,
+    "name": "CDE College",
+    "location": "City 10",
+    "description": "CDE College is a prestigious institution located in City 10, known for academic excellence and student life.",
+    "courses": [
+      "Law",
+      "Medicine",
+      "Management"
+    ],
+    "image": "/static/images/college29.jpg"
+  },
+  {
+    "id": 30,
+    "name": "DEF College",
+    "location": "City 1",
+    "description": "DEF College is a prestigious institution located in City 1, known for academic excellence and student life.",
+    "courses": [
+      "Engineering",
+      "Science",
+      "Arts",
+      "Commerce"
+    ],
+    "image": "/static/images/college30.jpg"
+  }
+]
